@@ -1,4 +1,6 @@
 <h1>JK-FLIP FLOP</h1>
 <h2>2075 Baishak</h2>
 <p>Write a VHDL code for a JK flip-flop using process.</p>
+<p>Truth Table of a JK flip-flop  .</p>
+<img src="./JK_Flipflop.png" alt="JK flip flop using process." />
 <img src="./JK_flipflop.png" alt="JK flip flop using process." />
