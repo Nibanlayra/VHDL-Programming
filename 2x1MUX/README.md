@@ -2,5 +2,5 @@
 <h2>2072 MAGH</h2>
 <p>Write VHDL code for 2-input multiplexer.</p>
 <p>FSM of 2-input multiplexer.</p>
-<img src="./2to_1Mux.png" alt="2X1 multiplexer using vhdl." />
+<img src="./2to1_Mux.png" alt="2X1 multiplexer FSM" />
 <img src="./2x1MUX.png" alt="2X1 multiplexer using vhdl." />
